@@ -1,0 +1,21 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+
+    "extends": "airbnb-base",
+    "overrides": [
+        {
+            "files": ["src/**/*.js", ".eslintrc.{js,cjs}"]
+        }
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module",
+        "allowImportExportEverywhere": true
+    },
+    "rules": {
+        "camelcase": [false, { "properties": "never" }]
+    }
+}
