@@ -24,3 +24,8 @@ All your files and folders are presented as a tree in the file explorer. You can
 `npm run preview`
 
 ### *Konstantinos "Kouk" Koukakis • 2025*
+
+
+
+#### Performance [Lighthouse]
+![{7172485E-0273-4381-B41F-A22F2E3E949E}](https://github.com/user-attachments/assets/10f82531-b232-424b-84af-1783776414cb)
